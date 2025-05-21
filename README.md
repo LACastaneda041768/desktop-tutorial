@@ -1,5 +1,29 @@
-# Welcome to GitHub Desktop!
+# Space Shooter Game
 
-This is your README. READMEs are where you can communicate what your project is and how to use it.
+A simple space shooter game created with Pygame where you control a spaceship and shoot incoming asteroids.
 
-Write your name on line 6, save it, and then head back to GitHub Desktop.
+## How to Play
+
+1. Install the required dependencies:
+```
+pip install -r requirements.txt
+```
+
+2. Run the game:
+```
+python space_shooter.py
+```
+
+## Controls
+
+- Use LEFT and RIGHT arrow keys to move the spaceship
+- Press SPACEBAR to shoot
+- Press ESC to quit the game
+
+## Features
+
+- Smooth spaceship movement
+- Shooting mechanics
+- Asteroid spawning and movement
+- Score tracking
+- Game over screen
